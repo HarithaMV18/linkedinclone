@@ -6,4 +6,5 @@
 - npm install -D tailwindcss postcss autoprefixer
 - npx tailwindcss init -p
 - Add paths in tailwind.config.js
-- 
+# redux
+- npm i @reduxjs/toolkit react-redux   
